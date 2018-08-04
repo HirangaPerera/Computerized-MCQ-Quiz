@@ -6,8 +6,8 @@ public class RunRandomQuections {
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException 
 	{
-	FetchData fd = new FetchData();
-	fd.fetchingQuections();
+	ShuffleQuections sq = new ShuffleQuections();
+	sq.shuffle();
 	}
 
 }

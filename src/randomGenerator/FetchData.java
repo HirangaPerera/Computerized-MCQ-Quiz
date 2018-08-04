@@ -27,10 +27,10 @@ public void fetchingQuections() throws SQLException {
 	c = mcqArray[2];
 	d = mcqArray[3];
 
-System.out.println(a); //For testing
-System.out.println(b);
-System.out.println(c);
-System.out.println(d);
+//System.out.println(a); //For testing
+//System.out.println(b);
+//System.out.println(c);
+//System.out.println(d);
 }
 
 }
